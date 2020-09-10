@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tabHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_home" />
+
+    <item
+        android:id="@+id/tabCamera"
+        android:enabled="true"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/tab_home" />
+
+    <item
+        android:id="@+id/tabStats"
+        android:enabled="true"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/tab_stats" />
+
+    <item
+        android:id="@+id/tabSettings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/tab_settings" />
+
+</menu>
