@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/cca_gray_200</color>
+    <color name="colorPrimaryDark">@color/cca_gray_300</color>
+    <color name="colorAccent">@color/cca_blue_200</color>
+
+    <color name="cca_gray_100">#bcc6d5</color>
+    <color name="cca_gray_200">#58677c</color>
+    <color name="cca_gray_300">#424e5a</color>
+
+    <color name="cca_blue_light_100">#9fc4fb</color>
+    <color name="cca_blue_100">#5b84ef</color>
+    <color name="cca_blue_200">#7186d5</color>
+    <color name="cca_blue_300">#6b66d1</color>
+
+</resources>
